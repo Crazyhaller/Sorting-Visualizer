@@ -45,7 +45,7 @@ export function NavBar() {
       >
         <h3 style={{ marginRight: '5px' }}>Sorting Visualizer</h3>
         <a
-          href="https://github.com/Lum-Heads/SortingAlgorithmVisualizer"
+          href="https://github.com/Crazyhaller/Sorting-Visualizer"
           target="_blank"
         >
           <AiFillGithub style={{ fontSize: '1.5rem' }} />
